@@ -1,0 +1,292 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>#퍼ㅓ퍼 칼로리와 영양 정보</title>
+		<meta name="keywords" content="칼로리 카운터, 음식, 영양정보, 검색"/>
+		<meta name="description" content="#퍼ㅓ퍼의 칼로리와 영양정보찾기:"/>
+		<link rel="icon" href="/favicon.png" type="image/png"/>
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+		<link rel="apple-touch-icon" href="/touch-icon-iphone.png"/>
+		<link rel="apple-touch-icon" sizes="72x72" href="/touch-icon-ipad.png"/>
+		<link rel="apple-touch-icon" sizes="114x114" href="/touch-icon-iphone-retina.png"/>
+		<link rel="apple-touch-icon" sizes="144x144" href="/touch-icon-ipad-retina.png"/>
+		<link rel="stylesheet" href="http://a.ftscrt.com/static/css/default_31.css" type="text/css"/>
+		<link rel="stylesheet" href="http://a.ftscrt.com/static/css/searchPageStyle_2.css" type="text/css"/><link rel="stylesheet" href="http://a.ftscrt.com/static/css/food/foodquicksearch_auto.css" type="text/css"/>
+		<script src="http://a.ftscrt.com/static/script/Chart-custom.js" type="text/javascript"></script>
+		<script src="http://a.ftscrt.com/static/script/jquery-1.7.2.min.js" type="text/javascript"></script>
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+			
+			});
+			function onFSBoxItemClick(el) {
+				window.location.href = el.getElementsByTagName('a')[0].href;
+			}
+		</script>
+		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-9848374323701801"); GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddAttr("Registered", "No");</script><script type="text/javascript">GA_googleAddSlot("ca-pub-9848374323701801", "Local_Default_ATF_Right_300x250"); GA_googleAddSlot("ca-pub-9848374323701801", "Local_Default_Middle_Right_300x250");</script><script type="text/javascript">GA_googleFetchAds();</script>
+	</head>
+	<body>
+		
+<div class="topBandLoggedOut">
+	<div class="centerContent topBand">
+	<div class="centerInnerContent">
+		
+		<a style="font-weight:bold" href="/Auth.aspx?pa=r&ReturnUrl=http%3a%2f%2fwww.fatsecret.kr%3a80%2f%25EC%25B9%25BC%25EB%25A1%259C%25EB%25A6%25AC-%25EC%2598%2581%25EC%2596%2591%25EC%2586%258C%2fsearch%3fq%3d%2523%25ED%258D%25BC%25E3%2585%2593%25ED%258D%25BC" rel="nofollow">가입하기</a> &nbsp;|&nbsp; <a style="font-weight:bold" href="/Auth.aspx?pa=s&ReturnUrl=http%3a%2f%2fwww.fatsecret.kr%3a80%2f%25EC%25B9%25BC%25EB%25A1%259C%25EB%25A6%25AC-%25EC%2598%2581%25EC%2596%2591%25EC%2586%258C%2fsearch%3fq%3d%2523%25ED%258D%25BC%25E3%2585%2593%25ED%258D%25BC" rel="nofollow">로그인</a>
+	</div>
+	</div>
+</div>
+
+
+		<div class="mainContent">
+			<form method="post" action="../Diary.aspx?pa=fjs&amp;q=%23%ud37c%u3153%ud37c" id="ctl01" style="margin:0px">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCAgIPFgIeB1Zpc2libGVoFgRmDxUBGeydveyngCDslYrsnYAg7JWM66a8IDHqsJxkAgEPFQEZ7J297KeAIOyViuydgCDslYzrprwgMOqwnGRk63euU+8u1T4jtxi++C9FmsofDLE=" />
+</div>
+
+				<div class="logoPanel">
+					<div class="centerContent">
+						<div class="centerInnerContent">
+							<div class="logoContent" style="height:90px">
+								
+<!--[if lte IE 7]>
+	<style type="text/css">
+		.logoContentB, .logoContentA {
+			display:inline-block;
+			vertical-align:middle;
+		}
+		.logoContentA {
+			width:100%;
+		}
+		.logoContentB {
+			height:100%;
+		}
+		.logoContentB, .logoContentA {
+			display:inline;
+		}
+	</style>
+<![endif]-->
+<div class="logoContentA">
+<table class="menuLogo" cellpadding="0" cellspacing="0">
+	<tr>
+		
+		<td class="menuLogoCell" valign="bottom">
+			<a href="/"><img alt="FatSecret" src="http://a.ftscrt.com/static/images/def20/Fatsecret_logo.png" border="0" style="margin-bottom:-6px"/></a>
+			<span class="menuAllThings">대한민국</span>
+		</td>
+		<td class="menuLogoCell" align="right">
+			
+		</td>
+		
+	</tr>
+</table>
+</div>
+<div class="logoContentB"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="menuContent">
+					<div class="centerContent">
+						<div class="centerInnerContent">
+							
+<table cellpadding="0" cellspacing="0" class="menuBar reg">
+	<tr valign="bottom">
+		<td>
+			<div class="navigationDropdown">
+				<ul id="navigationMenu">
+				
+					<li class="menuItem sepLeft">
+						
+						<a title="마이 FatSecret" href="/Default.aspx?pa=m">마이 FatSecret</a>
+						
+					</li>
+				
+					<li class="menuItem highlight">
+						<div class="hLeft" style="float:left;height:28px;width:1px"></div>
+						<a title="음식" href="/%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%98%81%EC%96%91%EC%86%8C/">음식</a>
+						<div class="hRight" style="float:right;height:28px;width:1px;margin-top:-28px"></div>
+					</li>
+				
+					<li class="menuItem">
+						
+						<a title="요리법" href="/Default.aspx?pa=recsh">요리법</a>
+						
+					</li>
+				
+					<li class="menuItem sepLeft">
+						
+						<a title="신체단련" href="/%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4/">신체단련</a>
+						
+					</li>
+				
+					<li class="menuItem sepLeft">
+						<div class="last">
+						<a title="커뮤니티" href="/Community.aspx?pa=fms">커뮤니티</a>
+						</div>
+					</li>
+				
+				</ul>
+			</div>
+		</td>
+	</tr>
+</table>
+
+						</div>
+					</div>
+				</div>
+			</form>
+			<div class="centerContent">
+				<div class="centerInnerContent">
+					
+<div class="breadCrumb">
+
+		<div class="breadCrumb_home"><a href="/" onmouseover="document.bcfshome.src='http://a.ftscrt.com/static/images/def20/nav_breadcrumb_home_alt.png'" onmouseout="document.bcfshome.src='http://a.ftscrt.com/static/images/def20/nav_breadcrumb_home.png'"><img name="bcfshome" src="http://a.ftscrt.com/static/images/def20/nav_breadcrumb_home.png"/></a></div>
+		<div class="breadCrumb_sep"><img src="http://a.ftscrt.com/static/images/def20/nav_breadcrumb_seperator.png"/></div>
+		<div class="breadcrumb_noLink">식품 검색</div>
+	
+</div>
+					
+					<div id="content" class="mem">
+						
+<script type="text/javascript" src="http://a.ftscrt.com/static/script/foodquicksearch_auto.js"></script>
+<script type="text/javascript"><!--
+	function getAutoSuggestionUrl(exp) {
+		return 'http://auto.fatsecret.com/?m=11&l=9&query=' + exp + '&fn=autoComplete';
+	}
+	function doFoodSearch(exp) {
+		window.location.href = '/%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%98%81%EC%96%91%EC%86%8C/search?q=' + encodeURIComponent(exp);
+	}
+	setFQSInput('ctl08');
+//--></script>
+
+<style type="text/css">
+	.fqs_faacrw div {
+	    width:410px;
+	}
+</style>
+<table class="generic">
+	<tr>
+		<td class="leftCell">
+			<div class="leftCellContent">
+				<div class="searchBoxPanel">
+					<div class="title" style="padding-bottom:10px;">식품 검색</div>
+					<form id="searchForm" style="margin:0px" method="get" action="/%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%98%81%EC%96%91%EC%86%8C/search">
+						<div style="float:left">
+							<input type="text" id="ctl08_ByFood" class="searchInput" id="exp" name="q" value="#퍼ㅓ퍼" onkeyup="onSearchInputKeyUp(event)" onkeydown="onSearchInputKeyDown(event)" onclick="onSearchInputKeyUp(event)" autocomplete="off"/>
+						</div>
+						<div style="float:right">
+							<a class="button" href="#" onclick="document.getElementById('searchForm').submit(); return false;">
+								<span class="left">&nbsp;</span>
+								<span class="middle" style="padding:0px 10px"><img src="http://a.ftscrt.com/static/images/foodadd/But_icon_Search_2.png" width="20px" height="20px"/>&nbsp;검색하기</span>
+								<span class="right">&nbsp;</span>
+							</a>
+						</div>
+						<div style="clear:both"></div>
+						
+						
+					</form>
+					<img id="fqs_autosuggest_arrow" src="http://a.ftscrt.com/static/images/foodadd/FA_SearchBox_Arrow_blue_2.png" width="17" height="10" style="position:absolute;padding-left:20px;display:none" />
+					<table id="fqs_autosuggest" cellspacing="0" cellpadding="0" style="width:100%;background-color:#fff;margin-bottom:2px;margin-top:9px;display:none">
+						<tr>
+							<td class="fqs_faacrs">
+								<table cellpadding="0" cellspacing="0" style="width:100%">
+									<tr class onmouseover="onAutoSuggestMouseOver(0)" onmouseout="onAutoSuggestMouseOut()">
+										<td class="fqs_faacrw" id="fqs_faacrw_0" onclick="onAutoSuggestClick(this)"><div></div></td>
+									</tr>
+									<tr class onmouseover="onAutoSuggestMouseOver(1)" onmouseout="onAutoSuggestMouseOut()">
+										<td class="fqs_faacrw" id="fqs_faacrw_1" onclick="onAutoSuggestClick(this)"><div></div></td>
+									</tr>
+									<tr class onmouseover="onAutoSuggestMouseOver(2)" onmouseout="onAutoSuggestMouseOut()">
+										<td class="fqs_faacrw" id="fqs_faacrw_2" onclick="onAutoSuggestClick(this)"><div></div></td>
+									</tr>
+									<tr class onmouseover="onAutoSuggestMouseOver(3)" onmouseout="onAutoSuggestMouseOut()">
+										<td class="fqs_faacrw" id="fqs_faacrw_3" onclick="onAutoSuggestClick(this)"><div></div></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				
+					<div class="searchNoResult">
+						&quot;#퍼ㅓ퍼&quot;의 검색결과가 없습니다. 다시 시도하거나 <a href=/Diary.aspx?pa=fjcr><b>여기</b></a>를 눌러 푸드데이터베이스에 추가하세요.
+					</div>
+				
+			</div>
+		</td>
+		<td class="rightCell">
+			<div class="rightCellContent">
+				
+<div class="dottedBox main solid icons" style="padding:10px 5px">
+	<div class="topHeader">검색하기</div>
+	<div class="selected"  title="식품 검색">
+		<span class="foods_b">&nbsp;</span><a href="/Diary.aspx?pa=fjs" onclick="return false">음식</a>
+	</div>
+	<div class="selectable" onclick="onFSBoxItemClick(this)" title="요리법 검색">
+		<span class="recipes_b">&nbsp;</span><a href="/Default.aspx?pa=rs" onclick="return false">요리법</a>
+	</div>
+	<div class="selectable" onclick="onFSBoxItemClick(this)" title="운동 검색">
+		<span class="exer_b">&nbsp;</span><a href="/Diary.aspx?pa=as" onclick="return false">신체단련</a>
+	</div>
+	<div class="selectable" onclick="onFSBoxItemClick(this)" title="회원 검색">
+		<span class="members_b">&nbsp;</span><a href="/Community.aspx?pa=mems" onclick="return false">회원</a>
+	</div>
+	<div class="selectable" onclick="onFSBoxItemClick(this)" title="저널 검색">
+		<span class="journal_b">&nbsp;</span><a href="/Community.aspx?pa=nh" onclick="return false">저널</a>
+	</div>
+	
+</div>
+				<div class="advertising"><br/>
+
+<script type="text/javascript">
+  GA_googleFillSlot("Local_Default_ATF_Right_300x250");
+</script>
+
+</div>
+				<div class="infobox" style="padding:5px">
+					<div><a style="color:#333;font-weight:700;text-transform:capitalize;font-size:115%;font-family:Helvetica,Arial" href="/Diary.aspx?pa=fjcr&title=%23%ed%8d%bc%e3%85%93%ed%8d%bc"><img src="http://a.ftscrt.com/static/images/icons/bowl_ing_bl.gif" width="36" height="36" style="vertical-align:middle" border="0"/>&nbsp;푸드 데이터베이스에 항목추가하기</a></div>
+					
+					<span style="font-weight:normal">찾구있는 항목을 찾으실 없을 경우, 음식 데이터베이스에 새 항목을 추가하여 도와주세요. <b><a href=/Diary.aspx?pa=fjcr&title=%23%ed%8d%bc%e3%85%93%ed%8d%bc>여기</a></b>를 눌러서 도와주세요.</span>
+				</div>
+				
+				<div class="advertising"><br/>
+
+<script type="text/javascript">
+  GA_googleFillSlot("Local_Default_Middle_Right_300x250");
+</script>
+
+</div>
+			</div>
+		</td>
+	</tr>
+</table>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footerPanel" align="right">
+			<div class="centerContent">
+				<div class="centerInnerContent">
+					
+<span class="noprint"><a href="/Default.aspx?pa=tnc">이용 약관</a><span class="sep">|</span><a href="/Default.aspx?pa=priv">개인정보 보호정책</a><span class="sep">|</span><a href="/Default.aspx?pa=tyf">친구찾기</a><span class="sep">|</span><a href="/Default.aspx?pa=brands">브랜드리스트</a><span class="sep">|</span><a href="/Default.aspx?pa=ra">악용사례 신고</a><span class="sep">|</span><a href="/Default.aspx?pa=cu">고객센터</a><span class="sep">|</span><a href="/Default.aspx?pa=sites">다른 사이트</a>
+<p><span>&copy; 2016 FatSecret. 판권소유</span></p>
+				</div>
+			</div>
+		</div>
+		
+		
+	<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+	<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-32621022-1");
+			pageTracker._trackPageview();
+			pageTracker._setVar('Guest');
+		}
+		catch(err) {
+		}
+	</script>
+
+	</body>
+</html>
